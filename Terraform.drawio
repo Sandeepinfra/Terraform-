@@ -1,0 +1,292 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="dq_SQ5TMK2DT5rLGiMtO">
+    <mxGraphModel dx="5930" dy="2910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yUEe5FOWYirupFxoDv2P-4" edge="1" parent="1" source="yUEe5FOWYirupFxoDv2P-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="392.5" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yUEe5FOWYirupFxoDv2P-6" connectable="0" parent="yUEe5FOWYirupFxoDv2P-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Management&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="-0.1" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yUEe5FOWYirupFxoDv2P-1" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Management_Groups.svg;" value="" vertex="1">
+          <mxGeometry height="100" width="125" x="330" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yUEe5FOWYirupFxoDv2P-5" edge="1" parent="1" source="yUEe5FOWYirupFxoDv2P-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390.9849999999999" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yUEe5FOWYirupFxoDv2P-7" connectable="0" parent="yUEe5FOWYirupFxoDv2P-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Subscription" vertex="1">
+          <mxGeometry relative="1" x="-0.2889" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yUEe5FOWYirupFxoDv2P-2" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" value="" vertex="1">
+          <mxGeometry height="100" width="61.97" x="360" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="yUEe5FOWYirupFxoDv2P-3" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;" value="" vertex="1">
+          <mxGeometry height="90" width="112.5" x="334.73" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="y-I58WWm5E3wmtf3ZojZ-5" edge="1" parent="1" source="y-I58WWm5E3wmtf3ZojZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="y-I58WWm5E3wmtf3ZojZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y-I58WWm5E3wmtf3ZojZ-6" edge="1" parent="1" source="y-I58WWm5E3wmtf3ZojZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="379.4" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-I58WWm5E3wmtf3ZojZ-7" edge="1" parent="1" source="y-I58WWm5E3wmtf3ZojZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="y-I58WWm5E3wmtf3ZojZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y-I58WWm5E3wmtf3ZojZ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;3 tier Architercture&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="300" x="229.4" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="y-I58WWm5E3wmtf3ZojZ-8" edge="1" parent="1" source="y-I58WWm5E3wmtf3ZojZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="149.4" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-I58WWm5E3wmtf3ZojZ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font face=&quot;Verdana&quot; size=&quot;3&quot;&gt;Frontend&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="89.4" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="y-I58WWm5E3wmtf3ZojZ-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font face=&quot;Verdana&quot; size=&quot;3&quot;&gt;Backend&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="309.4" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="y-I58WWm5E3wmtf3ZojZ-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font face=&quot;Verdana&quot; size=&quot;3&quot;&gt;Database&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="549.4" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="y-I58WWm5E3wmtf3ZojZ-12" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;verticalAlign=middle;" value="FRONTEND DEVELOPER" vertex="1">
+          <mxGeometry height="60" width="44.4" x="130.9" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="y-I58WWm5E3wmtf3ZojZ-13" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;verticalAlign=middle;" value="BACKEND DEVELOPER" vertex="1">
+          <mxGeometry height="60" width="44.4" x="357.2" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="y-I58WWm5E3wmtf3ZojZ-14" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;verticalAlign=middle;" value="DATABASE DEVELOPER" vertex="1">
+          <mxGeometry height="60" width="44.4" x="599.4" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="y-I58WWm5E3wmtf3ZojZ-15" edge="1" parent="1" source="y-I58WWm5E3wmtf3ZojZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.383;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" target="y-I58WWm5E3wmtf3ZojZ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y-I58WWm5E3wmtf3ZojZ-16" edge="1" parent="1" source="y-I58WWm5E3wmtf3ZojZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.225;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="y-I58WWm5E3wmtf3ZojZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y-I58WWm5E3wmtf3ZojZ-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=16;" value="REACT, NEXT JS, ANGULAR, HTML" vertex="1">
+          <mxGeometry height="60" width="145" x="80.6" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="y-I58WWm5E3wmtf3ZojZ-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=16;" value="PYTHON, GO, RUST, JAVA &amp;amp; DONTNET" vertex="1">
+          <mxGeometry height="60" width="160" x="309.4" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="y-I58WWm5E3wmtf3ZojZ-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=16;" value="MYSQL, MONGODB &amp;amp; POGSTGRESQL&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="160" x="549.4" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="y-I58WWm5E3wmtf3ZojZ-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;align=center;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="&lt;h2&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;IT architecture diagram is called Landing Zone&lt;/font&gt;&lt;/h2&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Developer ke bane hue code ko&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="590" x="100" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="y-I58WWm5E3wmtf3ZojZ-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" value="Security" vertex="1">
+          <mxGeometry height="60" width="120" x="10" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="y-I58WWm5E3wmtf3ZojZ-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" value="Backup" vertex="1">
+          <mxGeometry height="60" width="120" x="137.8" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="y-I58WWm5E3wmtf3ZojZ-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" value="Disaster Recovery" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="y-I58WWm5E3wmtf3ZojZ-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" value="Governance" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="y-I58WWm5E3wmtf3ZojZ-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" value="Compliance" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="y-I58WWm5E3wmtf3ZojZ-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" value="Best Practices" vertex="1">
+          <mxGeometry height="60" width="130" x="660" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-6" edge="1" parent="1" source="cf0T0ZOfrbZM2MiLKjf7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cf0T0ZOfrbZM2MiLKjf7-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="343.3" y="1430" />
+              <mxPoint x="445.3" y="1430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-14" edge="1" parent="1" source="cf0T0ZOfrbZM2MiLKjf7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="cf0T0ZOfrbZM2MiLKjf7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontSize=15;fontColor=#ffffff;" value="Resouce Group Banane ke tareeke" vertex="1">
+          <mxGeometry height="40" width="243.97" x="213.09999999999997" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="Manual" vertex="1">
+          <mxGeometry height="30" width="120" x="144.7" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-16" edge="1" parent="1" source="cf0T0ZOfrbZM2MiLKjf7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cf0T0ZOfrbZM2MiLKjf7-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="Automation" vertex="1">
+          <mxGeometry height="30" width="120" x="424.7" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Azure CLI" vertex="1">
+          <mxGeometry height="30" width="60" x="174.7" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Imperative" vertex="1">
+          <mxGeometry height="30" width="120" x="345.3" y="1530" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-22" edge="1" parent="1" source="cf0T0ZOfrbZM2MiLKjf7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545.3" y="1600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-25" edge="1" parent="1" source="cf0T0ZOfrbZM2MiLKjf7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cf0T0ZOfrbZM2MiLKjf7-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Declarative" vertex="1">
+          <mxGeometry height="30" width="120" x="535.3" y="1530" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-18" edge="1" parent="1" source="cf0T0ZOfrbZM2MiLKjf7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.3;entryY=0.109;entryDx=0;entryDy=0;entryPerimeter=0;" target="cf0T0ZOfrbZM2MiLKjf7-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="az CLI" vertex="1">
+          <mxGeometry height="30" width="70" x="365.3" y="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="IAC (Infrastructure as Code)" vertex="1">
+          <mxGeometry height="50" width="80.6" x="664.6999999999999" y="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" value="ARM,Bicep" vertex="1">
+          <mxGeometry height="30" width="70" x="504.7" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" value="&lt;b&gt;Terraform&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="635.3" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Multicloud Support" vertex="1">
+          <mxGeometry height="20" width="140" x="635.3" y="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" value="State Management" vertex="1">
+          <mxGeometry height="20" width="140" x="635.3" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Open Source" vertex="1">
+          <mxGeometry height="20" width="140" x="635.3" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontSize=13;fontColor=#ffffff;" value="why we use Terraform, while ARM Template(JSON), Bicep are also there?" vertex="1">
+          <mxGeometry height="40" width="276.98" x="278.32" y="1710" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontSize=13;fontColor=#ffffff;" value="Bahud bada bada code hota hai ARM Template me, jo bache hai wo Bicep use kar rhe hai" vertex="1">
+          <mxGeometry height="40" width="276.98" x="278.32" y="1750" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontSize=13;" value="Requirement - Terraform ke through Resouce Group and Strorage Account ek click banana hai." vertex="1">
+          <mxGeometry height="40" width="290.6" x="439.4" y="1810" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;fontSize=20;" value="&lt;font&gt;TERRAFORM&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="468.19" x="171.2" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Terraform State&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="610" x="120" y="1970" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="Refresh" vertex="1">
+          <mxGeometry height="30" width="60" x="539.4" y="2120" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="Compare" vertex="1">
+          <mxGeometry height="60" width="60" x="300" y="2100" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontSize=15;fontColor=#ffffff;" value="Terraform apply = refresh + Plan + approval + Apply" vertex="1">
+          <mxGeometry height="30" width="366.74" x="229.4" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" value="" vertex="1">
+          <mxGeometry height="205" width="170" x="120" y="2060" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;gradientColor=#b3b3b3;" value=".tf Code" vertex="1">
+          <mxGeometry height="30" width="170" x="120" y="2060" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" value="" vertex="1">
+          <mxGeometry height="210" width="160" x="369.4" y="2055" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;gradientColor=#b3b3b3;" value="State File" vertex="1">
+          <mxGeometry height="30" width="160" x="369.40000000000003" y="2055" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" value="" vertex="1">
+          <mxGeometry height="210" width="160" x="609.1999999999999" y="2055" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;gradientColor=#b3b3b3;" value="Azure Portal" vertex="1">
+          <mxGeometry height="30" width="160" x="609.2" y="2055" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Code hi satya hai" vertex="1">
+          <mxGeometry height="30" width="190" x="119.4" y="2020" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fillColor=#d0cee2;strokeColor=#56517e;fontStyle=1" value="&lt;span&gt;Scenario 1&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="194.4" x="-21.560000000000016" y="2480" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="Agar .tf file me kuch naya add hota hai toh kya hoga?" vertex="1">
+          <mxGeometry height="60" width="194.4" x="-21.560000000000002" y="2510" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pehle portal pr create hoga fr state file me entry hoga" vertex="1">
+          <mxGeometry height="40" width="194.4" x="-21.560000000000016" y="2570" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fillColor=#d0cee2;strokeColor=#56517e;fontStyle=1" value="Scenario 3" vertex="1">
+          <mxGeometry height="30" width="194.4" x="417.5400000000001" y="2480" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="Azure portal pr koi resource group delete ho jaye ?" vertex="1">
+          <mxGeometry height="60" width="194.4" x="417.54" y="2510" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fillColor=#d0cee2;strokeColor=#56517e;fontStyle=1" value="Scenario 2" vertex="1">
+          <mxGeometry height="30" width="194.4" x="198.44" y="2480" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="Agar .tf file se kuch hatt gaya toh kya hoga?" vertex="1">
+          <mxGeometry height="60" width="194.4" x="198.44" y="2510" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jo code me nahi hoga usko terraform hatta dega" vertex="1">
+          <mxGeometry height="40" width="194.4" x="197.99" y="2570" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="Terraform fir se bana dega.." vertex="1">
+          <mxGeometry height="40" width="194.4" x="417.5400000000001" y="2570" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" value="rg1" vertex="1">
+          <mxGeometry height="20" width="121.6" x="153.6" y="2110" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" value="rg2" vertex="1">
+          <mxGeometry height="20" width="121.6" x="153.6" y="2140" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" value="rg3" vertex="1">
+          <mxGeometry height="20" width="121.6" x="153.6" y="2170" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" value="rg1" vertex="1">
+          <mxGeometry height="20" width="121.6" x="609.2" y="2110" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" value="rg2" vertex="1">
+          <mxGeometry height="20" width="121.6" x="609.2" y="2140" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" value="rg3" vertex="1">
+          <mxGeometry height="20" width="121.6" x="608.4" y="2170" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-92" edge="1" parent="1" source="cf0T0ZOfrbZM2MiLKjf7-57" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.004;exitY=0.427;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="410" y="2260" as="sourcePoint" />
+            <mxPoint x="370" y="2148" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-94" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.004;exitY=0.427;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="529.4" y="2149.6" as="sourcePoint" />
+            <mxPoint x="608.4" y="2149.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;If Code = State file = Cloud = Zero Drift&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="430.6" x="190" y="2390" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fillColor=#d0cee2;strokeColor=#56517e;fontStyle=1" value="Scenario 4" vertex="1">
+          <mxGeometry height="30" width="220.6" x="634.5899999999999" y="2480" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-101" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="Agar bana banaya resource group ka name .tf se update krenge toh kya hoga?" vertex="1">
+          <mxGeometry height="60" width="220.6" x="634.5899999999999" y="2510" as="geometry" />
+        </mxCell>
+        <mxCell id="cf0T0ZOfrbZM2MiLKjf7-102" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="Jab code me update hoga toh portal aur state file me bhi update ho jayega" vertex="1">
+          <mxGeometry height="40" width="220.6" x="634.5899999999999" y="2570" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
