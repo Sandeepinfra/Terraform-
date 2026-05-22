@@ -112,7 +112,7 @@
         <mxCell id="_ZgTR7QKYiekQem9ZF_U-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Vnet Peering&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="482.5" x="157.5" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="_ZgTR7QKYiekQem9ZF_U-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=south;horizontal=0;fontSize=15;fontStyle=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" value="" vertex="1">
+        <mxCell id="_ZgTR7QKYiekQem9ZF_U-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=south;horizontal=0;fontSize=15;fontStyle=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" value="L" vertex="1">
           <mxGeometry height="90" width="50" x="100" y="400" as="geometry" />
         </mxCell>
       </root>
